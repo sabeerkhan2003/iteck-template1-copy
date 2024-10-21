@@ -1,0 +1,117 @@
+/* *{
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+   body{
+    background-image: url(assets/images/team_shap.png) ;
+    background-size: cover;
+     background-position: center; 
+    
+  } */
+  
+  
+  .testimonials{
+    padding: 57px ;
+    
+  }
+  
+  .container{
+    font-size: 14.4px;
+    margin: 0 324px;
+    padding: 0 15px;
+    
+  }
+  
+  .section-head{
+    margin: 0 0 60px;
+    text-align: start;
+    padding-left: 60px;
+
+  }
+  
+  .section-head > h6{
+    color: #0066ff;
+    margin: 0 0 20px;
+    font-size: 13px;
+    
+  }
+  
+  .section-head > h2{
+    font-size: 32px;
+    color: #212529;
+  }
+  
+  span{
+    font-weight: normal;
+  }
+  
+  .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+  }
+  
+  .row1{
+    padding: 0 15px;
+    width: 500px;
+  }
+  
+  
+  .vid-img > img{
+    height: 400px;
+    width: 520px;
+    object-fit: cover;
+    
+  }
+  
+  .row2{
+    
+  }
+  
+  .info-client{
+    /* padding: 0 0 0 75px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap:35px;
+   
+  }
+  
+  .client-card{
+    display: flex;
+    flex-direction: row;
+    background-color: #FFFFFF;
+    margin: 0 0 8px;
+    /* padding: 20px; */
+  }
+  
+  .user-img{
+    margin: 0 25px 0 0;
+  }
+  
+  .user-img > img{
+    height: 45px;
+    width: 45px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  .inf-content > .rate-star{
+    margin: 0 0 5px;
+  }
+  .inf-content > h6{
+    margin: 0 0 15px;
+    font-size: 13px;
+  }
+  .inf-content > p{
+    font-size: 12px;
+  }
+  .content{
+    display:flex;
+    justify-content: center;
+    gap:2%;
+    align-items: center;
+
+  }
